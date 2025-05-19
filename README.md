@@ -29,6 +29,15 @@ How TensorFlow Facilitates This<br/>
 TensorFlow, with its Keras API, simplifies building and training neural networks. It provides high-level abstractions like Sequential for stacking layers, Conv2D and MaxPooling2D for CNN-specific operations, and utilities like datasets for easy data loading. TensorFlow handles the underlying computations (e.g., backpropagation, optimization) efficiently, supporting both CPU and GPU acceleration, making it ideal for image classification tasks like this.
 
 
+SAMPLES CIFAR-10 DATASET:
+
+![Image](https://github.com/user-attachments/assets/8044b6f0-9868-44ae-9084-bf37fda38268)
+
+
 
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/c9ef285f-10c3-402f-9553-78b79b535c76)
+
+![Image](https://github.com/user-attachments/assets/d121be37-b5c2-4c84-89af-675e5aeee0a8)
